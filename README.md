@@ -18,6 +18,10 @@ I drafted based on screenshots of the Windows 98 edition of the game.
 
 ## Play
 
+- Left click (covered) - reveal tile
+- Left click (revealed) - reveal neighbors if adjacent flag-count equals mine-count
+- Right click (covered) - flag tile
+
 ```
 ruby minesweeper.rb -h
 Usage: minesweeper [options]
