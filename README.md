@@ -1,6 +1,6 @@
 # Minesweeper
 
-Microsoft Minesweeper is grid-based bomb-avoidance game that was included
+Microsoft Minesweeper is a grid-based bomb-avoidance game that was included
 in the Windows operating systems of my childhood: Windows 3.1, Windows 95, Windows 98,
 Windows ME, and Windows XP.
 
