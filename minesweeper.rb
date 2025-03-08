@@ -273,7 +273,7 @@ class Grid < Component
   end
 
   private def tile_at_row_col(row, col)
-    valid_row_col?(row, col) ? @grid[row][col] : nil
+    @grid[row][col] if valid_row_col?(row, col)
   end
 
   private def tile_at_xy(x, y)
